@@ -2,6 +2,8 @@
 
 A sophisticated deep learning recommendation system using a Two-Tower neural network architecture that combines collaborative filtering (ALS) with transformer-based embeddings (BERT) to predict user ratings and generate personalized product recommendations on Amazon Products dataset
 
+> 📝 **Read the full technical walkthrough on Medium:** [Building a Two-Tower Recommendation Engine: Combining BERT, ALS, and Popularity-Weighted Negative Sampling](https://medium.com/@akshat.dev/a-walkthrough-of-building-a-personalised-discovery-engine-with-bert-als-and-smart-negative-0e114bae2322?postPublishedType=repub)
+
 **Project Statistics:**
 - 🛍️ **600 unique products** from Amazon product reviews
 - 👥 **71,044 original reviews** → **284,176 samples** (with negative sampling)
