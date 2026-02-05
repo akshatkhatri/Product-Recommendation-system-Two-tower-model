@@ -1,0 +1,2 @@
+# Ignore CSV files generated for negative sampling
+*.csv
