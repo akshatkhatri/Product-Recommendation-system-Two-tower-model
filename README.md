@@ -1,6 +1,6 @@
 # Two-Tower Product Recommendation System
 
-A sophisticated deep learning recommendation system using a Two-Tower neural network architecture that combines collaborative filtering (ALS) with transformer-based embeddings (BERT) to predict user ratings and generate personalized product recommendations.
+A sophisticated deep learning recommendation system using a Two-Tower neural network architecture that combines collaborative filtering (ALS) with transformer-based embeddings (BERT) to predict user ratings and generate personalized product recommendations on AMazon Products dataset
 
 **Project Statistics:**
 - 🛍️ **600 unique products** from Amazon product reviews
