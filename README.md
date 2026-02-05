@@ -6,7 +6,7 @@ A sophisticated deep learning recommendation system using a Two-Tower neural net
 
 **Project Statistics:**
 - 🛍️ **600 unique products** from Amazon product reviews
-- 👥 **71,044 original reviews** → **284,176 samples** (with negative sampling)
+- 👥 **71,044 original reviews** → **284,176 samples** (with negative sampling) 
 - 🧠 **322,817 trainable parameters** (~1.23 MB model)
 - 🚀 **5 iterative model versions** (v1 → v5_power)
 - ⚡ **~70ms inference latency** (after warmup)
